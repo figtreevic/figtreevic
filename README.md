@@ -46,10 +46,12 @@
 <h2 align='center'><strong> ### Developer skills <strong>👨🏻‍💻
    <!-- <img src ='https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif' width='70px' /> -->
   </h2> 
+  <div align='center'>
   <a href="http://beacons.ai/figtreevic">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=figtreevic&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figtreevic&exclude_repo=ImersaoAlura,PandasPython&layout=compact&langs_count=16&theme=merko">
  </div>
+  </div>
   <div align='center' style="display:inline_block"<br>
   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
    <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
