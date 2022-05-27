@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="275"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="215"/>
 </div>
 <div id='contact' align='center'>
  <a href='mailto:figtreevic@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target='_blank'></a>
@@ -43,7 +43,7 @@
 ## 
 
 <div>
-<h2 align='center'><strong> ### Developer skills <strong>
+<h2 align='center'><strong> ### Developer skills <strong>👨🏻‍💻
    <!-- <img src ='https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif' width='70px' /> -->
   </h2> 
   <a href="http://beacons.ai/figtreevic">
@@ -63,7 +63,7 @@
  
   ##
   <div align='center' >
- <h2 align='center'><strong> ### DataScience skills <strong>
+ <h2 align='center'><strong> ### DataScience skills <strong>🌐
    <!-- <img src='https://media.giphy.com/media/SvEUbsayyUlcPm41Tl/giphy.gif' width='70px'/> -->
   </h2> 
   <a href="http://beacons.ai/figtreevic">
@@ -84,7 +84,7 @@
 
 <section class="blog">
  <h2 align='center'  color="blue">
-  <strong> ### My own universe </strong>
+  <strong> ### My own universe </strong>🪐
  <!--  <img src="https://media.giphy.com/media/vgma60qfjjBwNSaAYv/giphy.gif" width="70px"/> -->
 </h2>
     Here you can find a little bit about my life as a writter and my writing routine.
