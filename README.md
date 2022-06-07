@@ -23,9 +23,9 @@
  
 👋 Hi, I’m <strong> Victor Figueiredo </strong> 
  
-⚙️ I'm a <strong> Engineer </strong> solving problems using technology
+⚙️ I'm an <strong> Engineer </strong> solving problems using technology
  
-👀 I’m interested in learn as much as possible!
+👀 I’m interested in learning as much as possible!
  
 🌱 I’m currently working with front-end and learning back-end
 </div> 
