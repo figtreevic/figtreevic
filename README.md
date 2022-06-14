@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="215"/>
+  <img  align = 'center' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="215"/>
 </div>
 <div id='contact' align='center'>
  <a href='mailto:figtreevic@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target='_blank'></a>
@@ -10,11 +10,12 @@
 <div id='contact' align='center'>
   <a href='https://medium.com/@figtreevic'><img height='35px'src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' tarbet='_blank'></a>
  </div>
- 
 
 ##
 
-<h3 align='center'><strong> ### About myself</strong> 🙂</h3>
+<h3 align='center'><strong> ### About myself</strong> 
+<img align='center' height='50' width='50' src='https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif' />
+  </h3>
  <!-- <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="200"/>
  </div> --> 
@@ -43,7 +44,8 @@
 ## 
 
 <div>
-<h2 align='center'><strong> ### Developer skills <strong>👨🏻‍💻
+<h2 align='center'><strong> Developer skills <strong>
+  <img align='center' height = '50' widt='50' src = 'https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif' />
    <!-- <img src ='https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif' width='70px' /> -->
   </h2> 
   <div align='center'>
@@ -65,7 +67,8 @@
  
   ##
   <div align='center' >
- <h2 align='center'><strong> ### DataScience skills <strong>🌐
+ <h2 align='center'><strong> DataScience skills <strong>
+   <img align='center' height = '60' width='60' src = 'https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif' />
    <!-- <img src='https://media.giphy.com/media/SvEUbsayyUlcPm41Tl/giphy.gif' width='70px'/> -->
   </h2> 
   <a href="http://beacons.ai/figtreevic">
@@ -88,7 +91,8 @@
 
 <section class="blog">
  <h2 align='center'  color="blue">
-  <strong> ### My own universe </strong>🪐
+  <strong> ### My own universe </strong>
+   <img align='center' height = '70' width = '70' src= 'https://media.giphy.com/media/oy3pwvu2WbY22fOWbz/giphy.gif' />
  <!--  <img src="https://media.giphy.com/media/vgma60qfjjBwNSaAYv/giphy.gif" width="70px"/> -->
 </h2>
     Here you can find a little bit about my life as a writter and my writing routine.
