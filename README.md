@@ -13,7 +13,7 @@
 
 ##
 
-<h3 align='center'><strong> ### About myself</strong> 
+<h3 align='center'><strong>About myself</strong> 
 <img align='center' height='50' width='50' src='https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif' />
   </h3>
  <!-- <div align="center">
@@ -92,7 +92,7 @@
 
 <section class="blog">
  <h2 align='center'  color="blue">
-  <strong> ### My own universe </strong>
+  <strong>My own universe </strong>
    <img align='center' height = '70' width = '70' src= 'https://media.giphy.com/media/oy3pwvu2WbY22fOWbz/giphy.gif' />
  <!--  <img src="https://media.giphy.com/media/vgma60qfjjBwNSaAYv/giphy.gif" width="70px"/> -->
 </h2>
