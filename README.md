@@ -84,6 +84,8 @@
    <img align='center' height='40'width='40' src='https://github.com/jupyterlab/jupyterlab-desktop/blob/master/dist-resources/icon.ico?raw=true' />
    <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
    <img align='center' height='40' width='40'src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" />
+   <img align='center' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+   <img align='center' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
   
   </div>
  
