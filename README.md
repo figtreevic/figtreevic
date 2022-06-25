@@ -45,7 +45,7 @@
 
 <div>
 <h2 align='center'><strong> Developer skills <strong>
-  <img align='center' height = '50' widt='50' src = 'https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif' />
+  <img align='center' height = '50' width='50' src = 'https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif' />
   </h2> 
   <div align='center'>
   <a href="http://beacons.ai/figtreevic">
