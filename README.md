@@ -45,7 +45,7 @@
 
 <div>
 <h2 align='center'><strong> Developer skills <strong>
-  <img align='center' height = '50' widt='50' src = 'https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif' />
+  <img align='center' height = '60' widt='60' src = 'https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif' />
    <!-- <img src ='https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif' width='70px' /> -->
   </h2> 
   <div align='center'>
