@@ -22,7 +22,7 @@
  
  <div align='center'> 
  
-👋 Hi, I’m <strong> Victor Figueiredo </strong> 
+👋 Hi, My name is<strong> Victor Figueiredo </strong> 
  
 ⚙️ I'm an <strong> Engineer </strong> solving problems using technology
  
