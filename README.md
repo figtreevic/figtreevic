@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img  align = 'center' src="https://gfycat.com/bewitchedantiqueallensbigearedbat" width="500"/>
+ <img src='https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif', width = 750px, height = 250px  />
 </div>
 <div id='contact' align='center'>
  <a href='mailto:figtreevic@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target='_blank'></a>
