@@ -28,7 +28,7 @@
  
 👀 I’m interested in learning as much as possible!
  
-🌱 I’m currently working with front-end and learning back-end
+🌱 I’m currently working with Business Intelligence and learning Machine Learning
 </div> 
 
 ##
