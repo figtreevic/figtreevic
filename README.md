@@ -42,33 +42,6 @@
  </div>
  -->
 ## 
-
-<div>
-<h2 align='center'><strong> Developer skills <strong>
-  <img align='center' height = '50' width='50' src = 'https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif' />
-  </h2> 
-  <div align='center'>
-  <a href="http://beacons.ai/figtreevic">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=figtreevic&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
-    <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=figtreevic&exclude_repo=BasicClustering,Classification,NPL_1,NLP_2,UndKeras,KerasValidation,AdvClustering,MatplotLibStudy,BeerConsumptionAnalysis,ScrapingPyhton,SpellChecker,DataVisualization,TemporalSeries,ImersaoAlura,PandasPython,PandasIO&layout=compact&langs_count=16&theme=merko">
-    
- </div>
-  </div>
-  <div align='center' style="display:inline_block"<br>
-  <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-   <img align='center' alt='Rafa-CSS' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
- </div>
- 
-  ##
   <div align='center' >
  <h2 align='center'><strong> DataScience skills <strong>
    <img align='center' height = '60' width='60' src = 'https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif' />
@@ -93,6 +66,33 @@
  
  
 ##
+  
+  <div>
+<h2 align='center'><strong> Developer skills <strong>
+  <img align='center' height = '50' width='50' src = 'https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif' />
+  </h2> 
+  <div align='center'>
+  <a href="http://beacons.ai/figtreevic">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=figtreevic&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
+    <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=figtreevic&exclude_repo=BasicClustering,Classification,NPL_1,NLP_2,UndKeras,KerasValidation,AdvClustering,MatplotLibStudy,BeerConsumptionAnalysis,ScrapingPyhton,SpellChecker,DataVisualization,TemporalSeries,ImersaoAlura,PandasPython,PandasIO&layout=compact&langs_count=16&theme=merko">
+    
+ </div>
+  </div>
+  <div align='center' style="display:inline_block"<br>
+  <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img align='center' alt='Rafa-CSS' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+   <img align='center' height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+ </div>
+ 
+ ##
 
 <section class="blog">
  <h2 align='center'  color="blue">
