@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src='https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif', width = 750px, height = 250px  />
+ <img src='https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3', width = 500px, height = 350px  />
 </div>
 <div id='contact' align='center'>
  <a href='mailto:figtreevic@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target='_blank'></a>
@@ -20,17 +20,28 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="200"/>
  </div> --> 
  
- <div align='center'> 
  
-👋 Hi, My name is<strong> Victor Figueiredo </strong> 
+ ```python
+ class WhoAmI:
+ 	user = 'Victor Figueiredo'
+		current_work = 'Data Coordinator and Business Intelligence'
+		hobbies = [
+				'Reading',
+				'Writing',
+				'Learning as much as possible'
+				'Sometimes I draw'
+			]
+	
+	def getCity():
+		return Victoria_Canada()
+	
+	def Ambitions():
+		Learn_Machine_Learning()
+		Write_A_Book()
+		Crate_A_Good_A_I()
+		;)
  
-⚙️ I'm an <strong> Engineer </strong> solving problems using technology
- 
-👀 I’m interested in learning as much as possible!
- 
-🌱 I’m currently working with Business Intelligence and learning Machine Learning
-</div> 
-
+ ```
 ##
 
 <!-- <h2 align='center'><strong> ### How to reach me <strong>📫:</h2> 
@@ -43,7 +54,7 @@
  -->
 ## 
   <div align='center' >
- <h2 align='center'><strong> DataScience skills <strong>
+ <h2 align='center'><strong> DataScience_skills <strong>
    <img align='center' height = '60' width='60' src = 'https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif' />
    <!-- <img src='https://media.giphy.com/media/SvEUbsayyUlcPm41Tl/giphy.gif' width='70px'/> -->
   </h2> 
@@ -68,7 +79,7 @@
 ##
   
   <div>
-<h2 align='center'><strong> Developer skills <strong>
+<h2 align='center'><strong> Developer_skills <strong>
   <img align='center' height = '50' width='50' src = 'https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif' />
   </h2> 
   <div align='center'>
@@ -100,8 +111,10 @@
    <img align='center' height = '70' width = '70' src= 'https://media.giphy.com/media/oy3pwvu2WbY22fOWbz/giphy.gif' />
  <!--  <img src="https://media.giphy.com/media/vgma60qfjjBwNSaAYv/giphy.gif" width="70px"/> -->
 </h2>
+ <p>
     Here you can find a little bit about my life as a writter and my writing routine.
     I'm always posting here about writing and books, some of this content may be of your interest, don't let to check it out!
+ </p>
     <a href='www.figtreevic.ca' target='_blank'><img align="center" src="https://static.wixstatic.com/media/8536f5_a8bc3b685064432facfaf0e776ca2a1d~mv2.jpg/v1/fill/w_940,h_450,al_c,q_90,enc_auto/8536f5_a8bc3b685064432facfaf0e776ca2a1d~mv2.jpg"></a>
   </section>
  <!-- -->
