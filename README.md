@@ -13,7 +13,7 @@
 
 ##
 
-<h3 align='center'><strong>About myself</strong> 
+<h3 align='center'><strong>About_myself</strong> 
 <img align='center' height='50' width='50' src='https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif' />
   </h3>
  <!-- <div align="center">
@@ -42,6 +42,25 @@
 		;)
  
  ```
+##
+<h3 align='center'><strong>Medium_Posts</strong> 
+<img align='center' height='50' width= '80' src= 'https://media.itsnicethat.com/original_images/COLLINS_MEDIUM_00.gif' />
+  </h3>
+
+##
+
+##
+<h3 align='center'><strong>Reading_List_2023</strong> 
+<img align='center' height='50' width= '50' src= 'https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif' />
+  </h3>
+  <p>
+	<ul>
+		<li><a href="https://www.amazon.ca/Artificial-Intelligence-Approach-2-downloads-Artifical-ebook/dp/B092J75GML/ref=sr_1_12?crid=BOFU1YCY60IJ&keywords=stuart+russell&qid=1678580679&sprefix=stuart+russel%2Caps%2C188&sr=8-12" > Artificial Intelligence A Modern Approach - Russell, Stuart J. </a> </li>
+		<li><a href="https://www.amazon.ca/Life-3-0-Being-Artificial-Intelligence/dp/1101970316/ref=sr_1_1?crid=1X940NRRD2Q8Z&keywords=life+3.0&qid=1678580788&sprefix=life+3%2Caps%2C272&sr=8-1"> <s>Life 3.0: Being Human in the Age of Artificial Intelligence - Tegmark, Max</s> - ⭐⭐ </a> </li>
+		<li><a href="https://www.amazon.ca/Life-After-Google-Blockchain-Economy/dp/168451293X/ref=sr_1_9?crid=3IWDLF1GUP7NI&keywords=george+gilder&qid=1678581183&sprefix=george+g%2Caps%2C372&sr=8-9"><s>Life After Google: The Fall of Big Data and the Rise of the Blockchain Economy </s> -  ⭐⭐⭐ </a> </li>
+	</ul>
+	</p>
+
 ##
 
 <!-- <h2 align='center'><strong> ### How to reach me <strong>📫:</h2> 
