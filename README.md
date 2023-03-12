@@ -58,6 +58,8 @@
 		<li><a href="https://www.amazon.ca/Artificial-Intelligence-Approach-2-downloads-Artifical-ebook/dp/B092J75GML/ref=sr_1_12?crid=BOFU1YCY60IJ&keywords=stuart+russell&qid=1678580679&sprefix=stuart+russel%2Caps%2C188&sr=8-12" > Artificial Intelligence A Modern Approach - Russell, Stuart J. </a> </li>
 		<li><a href="https://www.amazon.ca/Life-3-0-Being-Artificial-Intelligence/dp/1101970316/ref=sr_1_1?crid=1X940NRRD2Q8Z&keywords=life+3.0&qid=1678580788&sprefix=life+3%2Caps%2C272&sr=8-1"> <s>Life 3.0: Being Human in the Age of Artificial Intelligence - Tegmark, Max</s> - ⭐⭐ </a> </li>
 		<li><a href="https://www.amazon.ca/Life-After-Google-Blockchain-Economy/dp/168451293X/ref=sr_1_9?crid=3IWDLF1GUP7NI&keywords=george+gilder&qid=1678581183&sprefix=george+g%2Caps%2C372&sr=8-9"><s>Life After Google: The Fall of Big Data and the Rise of the Blockchain Economy </s> -  ⭐⭐⭐ </a> </li>
+		<li><a href="https://www.amazon.ca/AI-Delusion-Gary-Smith-ebook/dp/B07DPPM9C5/ref=sr_1_1?crid=27XRTH79R6J5A&keywords=the+delusion+ai&qid=1678582071&sprefix=the+delusion+ai%2Caps%2C288&sr=8-1" </a> The AI Delusion - Smith, Gary </li>
+		<li><a href="https://www.amazon.ca/Technopoly-Surrender-Technology-Neil-Postman-ebook/dp/B004ZZJBW4/ref=sr_1_1?crid=2TRYBCYQZ0TZY&keywords=technopoly&qid=1678582113&sprefix=technopol%2Caps%2C200&sr=8-1"> Technopoly: The Surrender of Culture to Technology - Postman, Neil</a>  </li>
 	</ul>
 	</p>
 
