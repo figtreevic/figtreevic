@@ -31,6 +31,18 @@
 				'Learning as much as possible'
 				'Sometimes I draw'
 			]
+		certifications_and_knowledge = [
+		
+				'K_Means',
+				'Power_BI',
+				'Power_BI_ReportBuilder'
+				'Postgre_SQL',
+				'PyTorch',
+				'Apache_Spark',
+				'Apache_Airflow',
+				'NLP',
+				'Keras',
+			]
 	
 	def getCity():
 		return Victoria_Canada()
@@ -39,8 +51,7 @@
 		Learn_Machine_Learning()
 		Write_A_Book()
 		Crate_A_Good_A_I()
-		;)
- 
+	
  ```
 ##
 <h3 align='center'><strong>Medium_Posts</strong> 
