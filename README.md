@@ -60,6 +60,9 @@
 		<li><a href="https://www.amazon.ca/Life-After-Google-Blockchain-Economy/dp/168451293X/ref=sr_1_9?crid=3IWDLF1GUP7NI&keywords=george+gilder&qid=1678581183&sprefix=george+g%2Caps%2C372&sr=8-9"><s>Life After Google: The Fall of Big Data and the Rise of the Blockchain Economy </s> -  ⭐⭐⭐ </a> </li>
 		<li><a href="https://www.amazon.ca/AI-Delusion-Gary-Smith-ebook/dp/B07DPPM9C5/ref=sr_1_1?crid=27XRTH79R6J5A&keywords=the+delusion+ai&qid=1678582071&sprefix=the+delusion+ai%2Caps%2C288&sr=8-1" </a> The AI Delusion - Smith, Gary </li>
 		<li><a href="https://www.amazon.ca/Technopoly-Surrender-Technology-Neil-Postman-ebook/dp/B004ZZJBW4/ref=sr_1_1?crid=2TRYBCYQZ0TZY&keywords=technopoly&qid=1678582113&sprefix=technopol%2Caps%2C200&sr=8-1"> Technopoly: The Surrender of Culture to Technology - Postman, Neil</a>  </li>
+		<li><a href="https://www.amazon.ca/Deep-Learning-Ian-Goodfellow/dp/0262035618/ref=sr_1_5?crid=39NYTAARW1HHY&keywords=deep+learning&qid=1678724389&sprefix=deep+learn%2Caps%2C315&sr=8-5">Deep Learning - Goodfellow, Ian, Bengio, Yoshua, Courville, Aaron</a> </li>
+		<li><a href="https://www.amazon.ca/Iliad-Homer/dp/0140275363/ref=sr_1_5?crid=1I6FLECLUFVFH&keywords=iliad&qid=1678724565&sprefix=il%2Caps%2C182&sr=8-5"> The Iliad - Homer</a></li>
+		<li><a href="https://www.amazon.ca/Information-History-Theory-Flood/dp/1400096235/ref=sr_1_1?crid=34D1V6LN9BAMZ&keywords=information&qid=1678724658&sprefix=informati%2Caps%2C376&sr=8-1">The Information: A History, A Theory, A Flood - Gleick, James </a></li>
 	</ul>
 	</p>
 
