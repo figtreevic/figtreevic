@@ -63,6 +63,7 @@
 		<li><a href="https://www.amazon.ca/Deep-Learning-Ian-Goodfellow/dp/0262035618/ref=sr_1_5?crid=39NYTAARW1HHY&keywords=deep+learning&qid=1678724389&sprefix=deep+learn%2Caps%2C315&sr=8-5">Deep Learning - Goodfellow, Ian, Bengio, Yoshua, Courville, Aaron</a> </li>
 		<li><a href="https://www.amazon.ca/Iliad-Homer/dp/0140275363/ref=sr_1_5?crid=1I6FLECLUFVFH&keywords=iliad&qid=1678724565&sprefix=il%2Caps%2C182&sr=8-5"> The Iliad - Homer</a></li>
 		<li><a href="https://www.amazon.ca/Information-History-Theory-Flood/dp/1400096235/ref=sr_1_1?crid=34D1V6LN9BAMZ&keywords=information&qid=1678724658&sprefix=informati%2Caps%2C376&sr=8-1">The Information: A History, A Theory, A Flood - Gleick, James </a></li>
+		<li><a href="https://www.amazon.ca/Square-Tower-Networks-Freemasons-Facebook/dp/0735222916/ref=sr_1_1?crid=2FNU00SYC6NO9&keywords=the+tower+and+the+square&qid=1678725174&sprefix=the+tower+and+the+squa%2Caps%2C220&sr=8-1">The Square and the Tower: Networks and Power, from the Freemasons to Facebook - Ferguson, Niall</a></li> 
 	</ul>
 	</p>
 
