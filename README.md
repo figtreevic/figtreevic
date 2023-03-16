@@ -39,7 +39,7 @@
 				'Learning as much as possible'
 				'Sometimes I draw'
 			]
-		certifications_and_knowledge = [
+		certifications_and_skills = [
 		
 				'K_Means',
 				'Power_BI',
